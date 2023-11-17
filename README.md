@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate full-stack web developer enthusiastic about crafting robust web solutions and creating delightful user experiences. With expertise in React, PHP, Django, and Gin, I love diving into new technologies and turning ideas into reality.
 
 ## 🚀 Portfolio
-Explore my [portfolio](https://okekedivine-blond.vercel.app/) to see my latest projects and delve into my coding journey. From UI/UX design to backend development, I strive for excellence in every aspect of my work.
+Explore my [portfolio](https://okekedivine.vercel.app/) to see my latest projects and delve into my coding journey. From UI/UX design to backend development, I strive for excellence in every aspect of my work.
 
 ## 🔧 Skills
 - **Frontend**: React.js, HTML, CSS, JavaScript
