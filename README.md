@@ -8,8 +8,8 @@ Explore my [portfolio](https://okekedivine.vercel.app/) to see my latest project
 ## 🔧 Skills
 - **Frontend**: React.js, HTML, CSS, JavaScript
 - **Backend**: PHP, Django, Gin
-- **Database**: MySQL, MongoDB
-- **Other Tools**: Git, Docker, etc.
+- **Database**: MySQL
+- **Other Tools**: Git, Github
 
 ## 🌱 Open to Collaborate
 I'm open to collaboration and always eager to contribute to exciting projects. If you have an interesting project in mind or need help, feel free to reach out!
