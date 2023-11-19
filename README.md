@@ -20,7 +20,7 @@ I'm open to collaboration and always eager to contribute to exciting projects. I
 
 Let's connect and build amazing things together! 😊
 
-
+[Tiktok](https://www.tiktok.com/@divinethescriptsorcerer)
 <!--
 **Okeke-Divine/Okeke-Divine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
