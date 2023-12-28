@@ -20,13 +20,11 @@ I'm open to collaboration and always eager to contribute to exciting projects. I
 
 Let's connect and build amazing things together! 😊
 
-- [GitHub](https://github.com/Okeke-Divine/)
-- [LinkedIn](https://www.linkedin.com/in/okeke-divine-vessel/)
-- [Twitter](https://twitter.com/divinho__)
-- Email: okekedivine.skiy1@gmail.com
 - [TikTok](https://www.tiktok.com/@divinethescriptsorcerer)
-- [Facebook](https://www.facebook.com/)
+- [Twitter](https://twitter.com/divinho__)
+- [LinkedIn](https://www.linkedin.com/in/okeke-divine-vessel/)
 - [Upwork](https://www.upwork.com/freelancers/~013c44adc45fed7438)
+- Email: okekedivine.skiy1@gmail.com
 
 <!--
 **Okeke-Divine/Okeke-Divine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
