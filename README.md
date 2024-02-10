@@ -18,11 +18,10 @@ I'm open to collaboration and always eager to contribute to exciting projects. I
 - Explore more about me on [LinkedIn](https://www.linkedin.com/in/okeke-divine-vessel/)
 - Check out my [Twitter](https://twitter.com/divinho__) for tech updates and more
 
-Let's connect and build amazing things together! 😊
+Let's connect and build amazing things together!
 
-- [TikTok](https://www.tiktok.com/@divinethescriptsorcerer)
-- [Twitter](https://twitter.com/divinho__)
 - [LinkedIn](https://www.linkedin.com/in/okeke-divine-vessel/)
+- [Freelancer]([https://www.upwork.com/freelancers/~013c44adc45fed7438](https://www.freelancer.com/u/okekedivine))
 - [Upwork](https://www.upwork.com/freelancers/~013c44adc45fed7438)
 - Email: okekedivine.skiy1@gmail.com
 
