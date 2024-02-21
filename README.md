@@ -9,7 +9,7 @@ Explore my [portfolio](https://okekedivine.vercel.app/) to see my latest project
 - **Frontend**: React.js, HTML, CSS, JavaScript, Typescript, Tailwind, Bootstrap, Jquery(Basics)
 - **Backend**: PHP, Django, Gin(Basics)
 - **Database**: MySQL
-- **Other Tools**: Git, Github, Docker(Basics)
+- **Other Tools**: Git, Github, Docker(Basics), Puppeteer, Node-Cron
 
 ## 🌱 Open to Collaborate
 I'm open to collaboration and always eager to contribute to exciting projects. If you have an interesting project in mind or need help, feel free to reach out!
