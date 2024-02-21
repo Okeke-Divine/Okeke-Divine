@@ -6,10 +6,10 @@ Welcome to my GitHub profile! I'm a passionate full-stack web developer enthusia
 Explore my [portfolio](https://okekedivine.vercel.app/) to see my latest projects and delve into my coding journey. From UI/UX design to backend development, I strive for excellence in every aspect of my work.
 
 ## 🔧 Skills
-- **Frontend**: React.js, HTML, CSS, JavaScript
-- **Backend**: PHP, Django, Gin
+- **Frontend**: React.js, HTML, CSS, JavaScript, Typescript, Tailwind, Bootstrap, Jquery(Basics)
+- **Backend**: PHP, Django, Gin(Basics)
 - **Database**: MySQL
-- **Other Tools**: Git, Github
+- **Other Tools**: Git, Github, Docker(Basics)
 
 ## 🌱 Open to Collaborate
 I'm open to collaboration and always eager to contribute to exciting projects. If you have an interesting project in mind or need help, feel free to reach out!
