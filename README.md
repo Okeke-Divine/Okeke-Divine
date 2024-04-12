@@ -14,8 +14,11 @@ Explore my [portfolio](https://okekedivine.vercel.app/) to see my latest project
 ## 🌱 Open to Collaborate
 I'm open to collaboration and always eager to contribute to exciting projects. If you have an interesting project in mind or need help, feel free to reach out!
 
+<!-- 
 ## 📫 Let's Connect
 - Explore more about me on [LinkedIn](https://www.linkedin.com/in/okeke-divine-vessel/)
-- Check out my [Twitter](https://twitter.com/okekedivine__) for updates on my startup and more
+- Check out my [Twitter](https://twitter.com/okekedivine__) for updates on my startup and more 
+-->
 
 - Email: okekedivine.skiy1@gmail.com
+- Whatsapp (only): +234-706-487-2345
