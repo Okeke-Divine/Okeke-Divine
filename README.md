@@ -21,4 +21,4 @@ I'm open to collaboration and always eager to contribute to exciting projects. I
 -->
 
 - Email: okekedivine.skiy1@gmail.com
-- Whatsapp (only): +234-706-487-2345
+- Whatsapp (only): +234-706-487-8285
