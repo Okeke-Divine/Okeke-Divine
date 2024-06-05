@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Okeke Divine-Vessel
 
-Welcome to my GitHub profile! I am a full-stack web developer with a passion for creating robust and user-friendly web applications. I have experience working with React, Tailwind, PHP, Python(Django) and Mysql and I am always eager to learn new technologies.
+Welcome to my GitHub profile! I am a full-stack web developer with a passion for creating robust and user-friendly web applications.
 
 ## 🚀 Portfolio
 Explore my [portfolio](https://okekedivine.vercel.app/) to see my latest projects and delve into my coding journey. From UI/UX design to backend development, I strive for excellence in every aspect of my work.
@@ -20,5 +20,8 @@ I'm open to collaboration and always eager to contribute to exciting projects. I
 - Check out my [Twitter](https://twitter.com/okekedivine__) for updates on my startup and more 
 -->
 
+- Linkedin: https://www.linkedin.com/in/okeke-divine-vessel/
+- Twitter: https://twitter.com/okekedivine__
 - Email: okekedivine.skiy1@gmail.com
 - Whatsapp (only): +234-706-487-8285
+- Email: okekedivine.skiy1@gmail.com
