@@ -23,5 +23,5 @@ I'm open to collaboration and always eager to contribute to exciting projects. I
 - Linkedin: https://www.linkedin.com/in/okeke-divine-vessel/
 - Twitter: https://twitter.com/okekedivine__
 - Email: okekedivine.skiy1@gmail.com
-- Whatsapp (only): +234-706-487-8285
+- Whatsapp / Phone: +234-706-487-8285
 - Email: okekedivine.skiy1@gmail.com
