@@ -9,7 +9,7 @@ Explore my [portfolio](https://okekedivine.vercel.app/) to see my latest project
 - **Frontend**: : Django, Express Js, Laravel, Next Js, Node Js, PHP, Python
 - **Backend**: Bootstrap, HTML, Javascript, jQuery, React Js, Redux, TailwindCSS, DaisyUi, Typescript
 - **Database**: MySQL, MongoDB, PostgreSQL
-- **Other Tools**: Apache, CI/CD, Docker, Git, Mongoose, Node-Cron, Postman, Prisma, Puppeteer, Testing, Cloudinairy, AWS
+- **Other Tools**: Apache, CI/CD, Docker, Git, Mongoose, Node-Cron, Postman, Prisma, Puppeteer, Testing, Cloudinairy, AWS, Redis
 
 ## 🌱 Open to Collaborate
 I'm open to collaboration and always eager to contribute to exciting projects. If you have an interesting project in mind or need help, feel free to reach out!
@@ -23,5 +23,4 @@ I'm open to collaboration and always eager to contribute to exciting projects. I
 - Linkedin: https://www.linkedin.com/in/okeke-divine-vessel/
 - Twitter: https://twitter.com/okekedivine__
 - Email: okekedivine.skiy1@gmail.com
-- Whatsapp / Phone: +234-706-487-8285
 - Email: okekedivine.skiy1@gmail.com
