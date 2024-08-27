@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I am a full-stack web developer with a passion for
 Explore my [portfolio](https://okekedivine.vercel.app/) to see my latest projects and delve into my coding journey. From UI/UX design to backend development, I strive for excellence in every aspect of my work.
 
 ## 👨‍💻🛠️ Tech Stack
-- **PROGRAMMING LANGUAGE**: Python, Go, PHP, Javascript
-- **BACK END**: Django, Laravel, Next Js, Node Js, Express Js, Gin
+- **PROGRAMMING LANGUAGE**: Python, PHP, Javascript
+- **BACK END**: Django, Laravel, Next Js, Node Js, Express Js
 - **FRONT END**: Bootstrap, Daisy UI, Javascript, jQuery, React Js, Redux, Tailwind CSS, Typescript,  DATABASE: MySQL, MongoDB, PostgreSQL
 - **MISCELLANEOUS**: Apache, CI/CD, Docker, Git, Github Actions, Jest, PyTest, Mongoose,Node-Cron, Postman, Prisma, Puppeteer, Cloudinary, AWS, Redis, Memcached, Rest API
 
