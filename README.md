@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I am a full-stack web developer with a passion for creating robust and user-friendly web applications.
 
 ## 🚀 Portfolio
-Explore my [portfolio](https://okekedivine.vercel.app/) to see my latest projects and delve into my coding journey. From UI/UX design to backend development, I strive for excellence in every aspect of my work.
+Explore my [portfolio](https://okekedivine.com.ng/) to see my latest projects and delve into my coding journey. From UI/UX design to backend development, I strive for excellence in every aspect of my work.
 
 ## 👨‍💻🛠️ Tech Stack
 - **PROGRAMMING LANGUAGE**: Python, PHP, Javascript
