@@ -14,12 +14,4 @@ Explore my [portfolio](https://okekedivine.com.ng/) to see my latest projects an
 ## 🌱 Open to Collaborate
 I'm open to collaboration and always eager to contribute to exciting projects. If you have an interesting project in mind or need help, feel free to reach out!
 
-<!-- 
-## 📫 Let's Connect
-- Explore more about me on [LinkedIn](https://www.linkedin.com/in/okeke-divine-vessel/)
-- Check out my [Twitter](https://twitter.com/okekedivine__) for updates on my startup and more 
--->
 
-- [LinkedIn](https://www.linkedin.com/in/okeke-divine-vessel/)
-- Email: okekedivine.skiy1@gmail.com
-- [Twitter](https://twitter.com/okekedivine__)
