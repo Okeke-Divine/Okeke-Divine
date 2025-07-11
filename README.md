@@ -5,7 +5,7 @@ Full-Stack Software Engineer
 
 ## 👨‍💻🛠️ Tech Stack
 - **PROGRAMMING LANGUAGE**: Python, PHP, Javascript
-- **BACK END**: Django, Laravel, Next Js, Node Js, Express Js
+- **BACK END**: Django, Flask, Laravel, Next Js, Node Js, Express Js
 - **FRONT END**: Bootstrap, Daisy UI, Javascript, jQuery, React Js, Redux, Tailwind CSS, Shadcn, Typescript
 - **DATABASE**: MySQL, MongoDB, PostgreSQL
 - **MISCELLANEOUS**: Apache, CI/CD, Docker, Git, Github Actions, Jest, PyTest, Mongoose,Node-Cron, Postman, Prisma, Puppeteer, Cloudinary, AWS, Redis, Memcached, Rest API
