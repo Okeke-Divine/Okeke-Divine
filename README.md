@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Divine
 
 Full-Stack Software Engineer
-- [My Portfolio](https://okekedivine.com.ng/) - https://okekedivine.com.ng/ 
+- [My Portfolio / Resume] - https://okekedivine.com.ng/ 
 
 ## 👨‍💻🛠️ Tech Stack
 - **PROGRAMMING LANGUAGE**: Python, PHP, Javascript
