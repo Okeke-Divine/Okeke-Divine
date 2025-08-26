@@ -20,7 +20,7 @@
 ![Front End](https://skillicons.dev/icons?i=bootstrap,tailwind,react,redux,ts,js,jquery)
 
 ### Tools
-![Misc](https://skillicons.dev/icons?i=apache,docker,git,github,aws,postman,prisma,redis)
+![Misc](https://skillicons.dev/icons?i=docker,git,github,aws,postman,prisma,redis)
 
 <!-- - **PROGRAMMING LANGUAGE**: Python, PHP, Javascript
 - **BACK END**: Django, Flask, Laravel, Next Js, Node Js, Express Js
