@@ -25,9 +25,8 @@
 
 ### 📈 **Current Operations**
 
-- 🔭 **Building:** [Name of your most impressive current project] - A brief, killer one-liner about it.
-- 🌱 **Mastering:** Advanced System Design & Database Optimization
-- ⚡ **Fun fact:** I [insert a unique, humanizing fact here. e.g., "automate my coffee maker with a Raspberry Pi", "break codes for fun"]. 
+- 🔭 **Building:** Ilanafuse - The Unified Data Engine for Healthcare.
+- 🌱 **Mastering:** Advanced System Design & Database Optimization 
 
 ---
 
