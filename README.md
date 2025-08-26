@@ -1,13 +1,13 @@
 ### 👋 Hi there, I'm Divine-Vessel
 
-**I build scalable, full-stack systems that solve real-world problems.** I bridge the gap between complex backend logic and intuitive user interfaces, with a relentless focus on performance and clean code.
+**I build scalable, full-stack systems that solve real-world problems.**
 
 📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/okeke-divine-vessel/)
 👀 **See My Work:** [Portfolio](https://okekedivine.com.ng)
 
 ---
 
-### 🛠️ **The Arsenal**
+### 🛠️ **Tech Stack**
 
 **Core Languages:**  
 ![Core Languages](https://skillicons.dev/icons?i=python,js,ts,go,php)
