@@ -3,6 +3,7 @@
 **Full-Stack Software Engineer**
 
 📫 **How to reach me:** [https://www.linkedin.com/in/okeke-divine-vessel/](https://www.linkedin.com/in/okeke-divine-vessel/)
+
 👀 **Portfolio / Resume:** [https://okekedivine.com.ng](https://okekedivine.com.ng)
 
 ## My Tech Stack
