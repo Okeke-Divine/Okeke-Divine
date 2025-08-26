@@ -1,10 +1,15 @@
 # Hi there! 👋 I'm Divine
 
-Full-Stack Software Engineer
-- [My Portfolio / Resume] - https://okekedivine.com.ng/ 
+**Full-Stack Software Engineer**
+
+📫 **How to reach me:** [https://www.linkedin.com/in/okeke-divine-vessel/](https://www.linkedin.com/in/okeke-divine-vessel/)
+👀 **Portfolio / Resume:** [https://okekedivine.com.ng](https://okekedivine.com.ng)
 
 ## 👨‍💻🛠️ Tech Stack
-- **PROGRAMMING LANGUAGE**: Python, PHP, Javascript
+![Core Languages](https://skillicons.dev/icons?i=python,js,php,go)
+![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
+
+<!-- - **PROGRAMMING LANGUAGE**: Python, PHP, Javascript
 - **BACK END**: Django, Flask, Laravel, Next Js, Node Js, Express Js
 - **FRONT END**: Bootstrap, Daisy UI, Javascript, jQuery, React Js, Redux, Tailwind CSS, Shadcn, Typescript
 - **DATABASE**: MySQL, MongoDB, PostgreSQL
