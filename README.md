@@ -18,7 +18,6 @@
 
 ### Front End
 ![Front End](https://skillicons.dev/icons?i=bootstrap,tailwind,react,redux,ts,js,jquery)
-- DaisyUI, Shadcn
 
 ### Miscellaneous
 ![Misc](https://skillicons.dev/icons?i=apache,docker,git,github,aws,postman,prisma,redis)
