@@ -1,31 +1,38 @@
-# Hi there! 👋 I'm Divine
+### 👋 Hi there, I'm Divine-Vessel
 
-**Full-Stack Software Engineer**
+**I build scalable, full-stack systems that solve real-world problems.** I bridge the gap between complex backend logic and intuitive user interfaces, with a relentless focus on performance and clean code.
 
-📫 **How to reach me:** [https://www.linkedin.com/in/okeke-divine-vessel/](https://www.linkedin.com/in/okeke-divine-vessel/)
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/okeke-divine-vessel/)
+👀 **See My Work:** [Portfolio](https://okekedivine.com.ng)
 
-👀 **Portfolio / Resume:** [https://okekedivine.com.ng](https://okekedivine.com.ng)
+---
 
-## My Tech Stack
-### Core Languages
-![Core Languages](https://skillicons.dev/icons?i=python,js,php,go)
+### 🛠️ **The Arsenal**
 
-### Databases
-![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
+**Core Languages:**  
+![Core Languages](https://skillicons.dev/icons?i=python,js,ts,go,php)
 
-### Back End
-![Back End](https://skillicons.dev/icons?i=django,flask,laravel,nextjs,nodejs,express)
+**Frontend:**  
+![Front End](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap)
 
-### Front End
-![Front End](https://skillicons.dev/icons?i=bootstrap,tailwind,react,redux,ts,js,jquery)
+**Backend:**  
+![Back End](https://skillicons.dev/icons?i=nodejs,express,django,flask,laravel)
 
-### Tools
-![Misc](https://skillicons.dev/icons?i=docker,git,github,aws,postman,prisma,redis)
+**Databases & Tools:**  
+![Databases & Tools](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma,docker,aws,git,postman)
 
-<!-- - **PROGRAMMING LANGUAGE**: Python, PHP, Javascript
-- **BACK END**: Django, Flask, Laravel, Next Js, Node Js, Express Js
-- **FRONT END**: Bootstrap, Daisy UI, Javascript, jQuery, React Js, Redux, Tailwind CSS, Shadcn, Typescript
-- **DATABASE**: MySQL, MongoDB, PostgreSQL
-- **MISCELLANEOUS**: Apache, CI/CD, Docker, Git, Github Actions, Jest, PyTest, Mongoose,Node-Cron, Postman, Prisma, Puppeteer, Cloudinary, AWS, Redis, Memcached, Rest API
+---
 
+### 📈 **Current Operations**
 
+- 🔭 **Building:** [Name of your most impressive current project] - A brief, killer one-liner about it.
+- 🌱 **Mastering:** Advanced System Design & Database Optimization
+- ⚡ **Fun fact:** I [insert a unique, humanizing fact here. e.g., "automate my coffee maker with a Raspberry Pi", "break codes for fun"]. 
+
+---
+
+### 📊 **GitHub Campaign Metrics**
+
+![Divine-Vessel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Okeke-Divine&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Okeke-Divine&layout=compact&theme=radical)
