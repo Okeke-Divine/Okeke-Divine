@@ -32,8 +32,6 @@
 
 ### 📊 **GitHub Campaign Metrics**
 
-### 📊 **GitHub Campaign Metrics**
-
 ![Divine-Vessel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Okeke-Divine&show_icons=true&hide_border=true&bg_color=0a191f&title_color=64ffda&text_color=ccd6f6&icon_color=64ffda&text_bold=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Okeke-Divine&layout=compact&hide_border=true&bg_color=0a191f&title_color=64ffda&text_color=ccd6f6&icon_color=64ffda&text_bold=false)
