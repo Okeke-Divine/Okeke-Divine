@@ -6,7 +6,10 @@
 👀 **Portfolio / Resume:** [https://okekedivine.com.ng](https://okekedivine.com.ng)
 
 ## 👨‍💻🛠️ Tech Stack
+### Core Languages
 ![Core Languages](https://skillicons.dev/icons?i=python,js,php,go)
+
+### Databases
 ![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
 
 <!-- - **PROGRAMMING LANGUAGE**: Python, PHP, Javascript
