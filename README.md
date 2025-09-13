@@ -10,7 +10,7 @@
 ### 🛠️ **Tech Stack**
 
 **Core Languages:**  
-![Core Languages](https://skillicons.dev/icons?i=python,js,ts,go,php)
+![Core Languages](https://skillicons.dev/icons?i=python,js,ts,php)
 
 **Frontend:**  
 ![Front End](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap)
