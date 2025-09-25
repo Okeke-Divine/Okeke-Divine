@@ -25,7 +25,7 @@
 
 ### 📈 **Current Operations**
 
-- 🔭 **Building:** Ilanafuse - The Unified Data Engine for Healthcare.
+- 🔭 **Building:** Ilanafuse - The Unified Data Engine for Healthcare. (@ Ilanatech)
 - 🌱 **Mastering:** Advanced System Design & Database Optimization 
 
 ---
