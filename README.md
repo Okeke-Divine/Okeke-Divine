@@ -2,6 +2,14 @@
 
 **I build scalable, full-stack systems that solve real-world problems.**
 
+### 📈 **Current Operations**
+
+- 🔭 **Building (1):** [ShipBoard](https://shipboard.okekedivine.com.ng/) - The feedback tool that helps you IMPLEMENT the features.
+- 🔭 **Building (2):** Ilanafuse - The Unified Data Engine for Healthcare. (@ Ilanatech)
+- 🌱 **Mastering:** Advanced System Design & Database Optimization 
+
+---
+
 📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/okeke-divine-vessel/)
 👀 **See My Work:** [Portfolio](https://okekedivine.com.ng)
 
@@ -21,12 +29,6 @@
 **Databases & Tools:**  
 ![Databases & Tools](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma,docker,aws,git,postman)
 
----
-
-### 📈 **Current Operations**
-
-- 🔭 **Building:** Ilanafuse - The Unified Data Engine for Healthcare. (@ Ilanatech)
-- 🌱 **Mastering:** Advanced System Design & Database Optimization 
 
 ---
 
