@@ -4,7 +4,7 @@
 
 ### 📈 **Current Operations**
 
-- 🔭 **Building - SASS:** [ShipBoard](https://shipboard.dev/) - Stop Alt-Tabbing. Ship Feedback Directly From VS Code.
+- 🔭 **Building** [ShipBoard](https://shipboard.dev/) - Stop Alt-Tabbing. Ship Feedback Directly From VS Code.
 - 🌱 **Mastering:** Advanced System Design & Database Optimization 
 
 ---
