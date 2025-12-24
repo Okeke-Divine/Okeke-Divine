@@ -4,7 +4,7 @@
 
 ### 📈 **Current Operations**
 
-- 🔭 **Building** [ShipBoard](https://shipboard.dev/) - Stop Alt-Tabbing. Ship Feedback Directly From VS Code.
+- 🔭 **Building** [ShipBoard](https://shipboard.dev/) - Sync user feedback to VS Code. Close the loop instantly.
 - 🌱 **Mastering:** Advanced System Design & Database Optimization 
 
 ---
