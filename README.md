@@ -4,7 +4,7 @@
 
 ### 📈 **Current Operations**
 
-- 🔭 **Building** [ShipBoard](https://shipboard.dev/) - Sync user feedback to VS Code. Close the loop instantly.
+- 🔭 **Building** [ShipBoard](https://shipboard.dev/) - Ship what users want in days, not weeks
 - 🌱 **Mastering:** Advanced System Design & Database Optimization 
 
 ---
