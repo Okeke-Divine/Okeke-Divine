@@ -4,7 +4,7 @@
 
 ### 📈 **Current Operations**
 
-- 🔭 **Building** [ShipBoard](https://shipboard.dev/) - Ship what users want in days, not weeks
+- 🔭 **Building** [ShipBoard](https://www.shipboard.dev/) - Never build the wrong thing again
 - 🌱 **Mastering:** Advanced System Design & Database Optimization 
 
 ---
