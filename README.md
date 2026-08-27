@@ -25,7 +25,7 @@ Software Engineer specializing in multi-tenant SaaS architectures, high-performa
 
 ### 📊 Production Systems Engineering Case Studies
 
-*   **Custom Enterprise FHIR Server:** Built the core engine of a custom FHIR server from scratch in Python/Flask, implementing deep relationship search parameters (chained, reverse-chained, include, and revinclude) handling lookups over 100,000+ clinical resources.
+*   **Custom Enterprise FHIR Server:** Engineered over 90% of a custom healthcare compliance server specification from scratch using Python and Flask, implementing complex relationship query parsers (chained, reverse-chained, include, and revinclude searches) across 100,000+ distributed clinical resources.
 *   **Modular Monolith Migration:** Refactored 15,000+ lines of monolithic legacy PHP infrastructure into a decoupled Node.js/Express and MongoDB modular ecosystem, containerizing system modules with Docker and automating CI/CD deployment pipelines.
 *   **Time-Series Analytics:** Designed transaction-isolated financial ledger architectures to eliminate database race conditions and wrote data reconstruction algorithms to interpolate chronological gaps on zero-activity intervals.
 
