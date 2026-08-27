@@ -15,10 +15,10 @@ Software Engineer specializing in multi-tenant SaaS architectures, high-performa
 ### 🛠️ Technical Proficiencies
 
 ```text
-├── Protocols & Standards : HL7v2, FHIR, Keycloak IAM, OAuth2, REST APIs
-├── Languages & Stacks    : TypeScript, Node.js (Express), Python (Flask, Django), Next.js, React
-├── Databases & Storage   : PostgreSQL, MongoDB, MySQL, Prisma ORM
-└── Cloud Infrastructure  : Docker, Linux VPS Deployments, GitHub Actions CI/CD Pipelines
+├── Protocols & Standards       : HL7v2, FHIR, Keycloak IAM, OAuth2, REST APIs
+├── Languages & Core Stacks     : TypeScript, Node.js (Express), Python (Flask, Django), Next.js, React
+├── Databases & Data Modeling   : PostgreSQL, MongoDB, MySQL, Prisma ORM
+└── Systems Architecture        : Multi-Tenant SaaS, Event-Driven Architectures, Token-Based Lifecycles, Extension Hosts, Docker, CI/CD, Cloud Infrastructure
 ```
 
 ---
